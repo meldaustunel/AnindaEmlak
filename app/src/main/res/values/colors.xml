@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kralice_mavi">#4D658E</color>
+    <color name="lacivert_gri">#625C89</color>
+    <color name="fransız_leylak">#775383</color>
+    <color name="razzmik_berry">#8D4A7E</color>
+    <color name="eflatun_pus">#A24178</color>
+    <color name="mistik_bordo">#B73873</color>
+    <color name="telemagenta">#CC2F6D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="search_box">#E3E0E0</color>
+    <color name="gray">#F3EFEF</color>
+    <color name="black">#000000</color>
+    <color name="text">#CD2E2E2E</color>
+
+
+</resources>

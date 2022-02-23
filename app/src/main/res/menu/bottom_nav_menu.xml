@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_dest"
+        android:enabled="true"
+        android:icon="@drawable/home_button"
+        android:title=""/>
+    <item
+        android:id="@+id/search_dest"
+        android:enabled="true"
+        android:icon="@drawable/searc"
+        android:title=""/>
+    <item
+        android:id="@+id/messages_dest"
+        android:enabled="true"
+        android:icon="@drawable/email"
+        android:title=""/>
+    <item
+        android:id="@+id/profile_dest"
+        android:enabled="true"
+        android:icon="@drawable/profile_user"
+        android:title=""/>
+</menu>
